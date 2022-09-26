@@ -1,0 +1,24 @@
+.search-area{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 0px;
+}
+.search-input input {
+    width: 335px;
+    height: 41px;
+    padding: 0px 10px;
+    border: 2px solid #c7c7c7;
+    border-radius: 5px;
+}
+
+.search-input button {
+    padding: 14px 70px;
+    background-color: #E21B70;
+    color: #ffd;
+    font-size: 15px;
+    font-weight: 600;
+    border: navajowhite;
+    margin-left: 10px;
+    border-radius: 7px;
+}
