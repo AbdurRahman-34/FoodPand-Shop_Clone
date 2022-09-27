@@ -1,0 +1,20 @@
+.shop-Container{
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 50px;
+    padding: 20px 0px;
+}
+
+.name-marking{
+    color: #E21B70;
+}
+
+.food-main{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+}
+.foods-details img {
+    width: 300px;
+    border-radius: 20px;
+}
